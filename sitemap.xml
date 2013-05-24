@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://vlara.github.io/blog/2013/05/23/purpose-of-this-blog/</loc>
+        <lastmod>2013-05-23T20:42:30-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://vlara.github.io/blog/archives/</loc>
-        <lastmod>2013-05-23T20:17:41-07:00</lastmod>
+        <lastmod>2013-05-23T20:42:30-07:00</lastmod>
     </url>
     <url>
         <loc>http://vlara.github.io/</loc>
-        <lastmod>2013-05-23T20:17:41-07:00</lastmod>
+        <lastmod>2013-05-23T20:42:30-07:00</lastmod>
     </url>
     <url>
         <loc>http://vlara.github.io/robots.txt</loc>
